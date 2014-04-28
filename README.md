@@ -1,7 +1,11 @@
 UrlRewriter - a rule-based URL Rewriter for .NET.
+
 Copyright (c)2011 Seth Yates
+
 Author [Seth Yates](https://github.com/sethyates/urlrewriter)
+
 Author Stewart Rae
+
 Version 2.1
 
 Installation
